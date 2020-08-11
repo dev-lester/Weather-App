@@ -1,5 +1,5 @@
 # Weather-App
-Weather App with Open weather API and NodeJs. 
+Weather App with Open-weather API and NodeJs. 
 
 # To install packages
 Run npm install
